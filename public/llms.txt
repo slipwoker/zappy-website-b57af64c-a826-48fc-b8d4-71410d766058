@@ -1,0 +1,69 @@
+# alonk — Generative Engine Optimization Map
+
+> A personal photography website designed to showcase the user's own photographs. The site serves as a visual portfolio or gallery to display the photographer's work and creative eye.
+
+---
+
+## Pages
+
+### בית
+https://alonk-b57af64c.zappy5.app
+גלו תיק עבודות צילום ייחודי שמתמקד ברגעי הקסם של שעת הזהב. אתר גלריה אישית שמציגה מבט יצירתי ונופים עוצרי נשימה. היכנסו להתרשם ולהתאהב באור!
+
+## Legal & Policy
+
+### Privacy Policy
+https://alonk-b57af64c.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://alonk-b57af64c.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://alonk-b57af64c.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://alonk-b57af64c.zappy5.app
+- Endpoint: https://alonk-b57af64c.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About alonk
+A personal photography website designed to showcase the user's own photographs. The site serves as a visual portfolio or gallery to display the photographer's work and creative eye.
+
+## Services/Products
+- photography gallery
+- photo showcase
+
+## Target Audience
+- חובבי אמנות
+- צלמים בהתהוות
+
+## Industry
+Photography
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://alonk-b57af64c.zappy5.app/sitemap.xml
+- Robots: https://alonk-b57af64c.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://alonk-b57af64c.zappy5.app/llms-full.txt
