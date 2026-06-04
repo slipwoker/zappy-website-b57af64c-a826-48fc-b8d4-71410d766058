@@ -2,13 +2,13 @@
 
 A personal photography website designed to showcase the user's own photographs. The site serves as a visual portfolio or gallery to display the photographer's work and creative eye.
 
-Source: https://alonk-b57af64c.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תפסו את הקסם של שעת הזהב — alonk
 
-URL: https://alonk-b57af64c.zappy5.app
+URL: https://example.com
 Description: גלו תיק עבודות צילום ייחודי שמתמקד ברגעי הקסם של שעת הזהב. אתר גלריה אישית שמציגה מבט יצירתי ונופים עוצרי נשימה. היכנסו להתרשם ולהתאהב באור!
 
 תפסו את הקסם של שעת הזהב — alonk
@@ -547,7 +547,7 @@ Description: גלו תיק עבודות צילום ייחודי שמתמקד ב�
 
 ## מדיניות פרטיות
 
-URL: https://alonk-b57af64c.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -810,7 +810,7 @@ alonk ("החברה", "אנו", "שלנו") מחויבת להגן על פרטיו
 
 ## הצהרת נגישות
 
-URL: https://alonk-b57af64c.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1082,7 +1082,7 @@ alonk מחויבת להנגיש את השירותים לכלל הציבור. א�
 
 ## תנאי שימוש
 
-URL: https://alonk-b57af64c.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
